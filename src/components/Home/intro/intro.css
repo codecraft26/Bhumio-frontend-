@@ -1,0 +1,22 @@
+@import url('../../../style.css');
+
+
+.header-section{
+    justify-content: center;
+    gap: 50px;
+
+ }
+ .header-right img{
+    
+  margin-top: 60px;
+    width: 600px ;
+
+ }
+ .header-left{
+    max-width: 40vw;
+
+ }
+ .header-left h1{
+    margin-top: 20px;
+
+ }
