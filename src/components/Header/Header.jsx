@@ -4,7 +4,7 @@ import './header.css'
 const Header = () => {
 
 
-  const [auth, setAuth] = React.useState(true)
+  const [auth, setAuth] = React.useState(false)
 
 
 
