@@ -5,7 +5,7 @@ export const LOGIN_FAIL='LOGIN_FAIL'
 export const REGISTER_REQUEST='REGISTER_USER_REQUEST'
 export const REGISTER_SUCCESS='REGISTER_USER_SUCCESS'
 export const REGISTER_FAIL='REGISTER_USER_FAIL'
-
+// constants for load user request
 
 export const LOAD_USER_REQUEST = "LOAD_USER_REQUEST";
 export const LOAD_USER_SUCCESS = "LOAD_USER_SUCCESS";
